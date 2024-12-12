@@ -1,0 +1,33 @@
+BASES DE DATOS,,
+PostgreSQL,,47.8%
+MySQL ,,40.3%
+SQLite,,33.1%
+Microsoft SQL Server,,25.3%
+MongoDB,,24.8%
+Redis,,20%
+MariaDB,,17.2%
+Elasticsearch,,12.5%
+Oracle,,10.1%
+Dynamodb,,7.9%
+Firebase Realtime Database,,5.8%
+Cloud Firestore,,5.4%
+BigQuery,,4.8%
+Microsoft Access,,4.2%
+Supabase,,4%
+H2,,4%
+Cosmos DB,,3.3%
+Snowflake,,2.6%
+InfluxDB,,2.5%
+Cassandra,,2.4%
+Databricks SQL,,1.9%
+Neo4J,,1.9%
+IBM DB2,,1.7%
+Clickhouse,,1.7%
+DuckDB,,1.4%
+Firebird,,1.1%
+Cockroachdb,,1%
+Couchbase,,0.7%
+Presto,,0.6%
+Datomic,,0.4%
+EventStoreDB,,0.3%
+RavenDB,,0.3%

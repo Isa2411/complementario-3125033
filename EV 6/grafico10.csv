@@ -1,0 +1,21 @@
+EMBEDDED TECHNOLOGIES,,
+Raspberry Pi,,38.6%
+Arduino,,29.9%
+GNU FCC,,29.1%
+CMake,,28.3%
+LLVM´s Clang,,17.1%
+Cargo,,15:8%
+MSVC,,8.9%
+Ninja,,7.8%
+PlatformIO,,4.8%
+Meson,,2.9%
+QMake,,2.4%
+Catch2,,1.8%
+cppunit,,1.5%
+Boost.Test,,1.1%
+doctest,,1.1%
+SCons,,1.1%
+ZMK,,0.8%
+Micronaut,,0.7%
+build2,,0.5%
+CUTE,,0.4%
